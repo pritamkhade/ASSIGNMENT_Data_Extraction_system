@@ -1,0 +1,6 @@
+data_id,Subject_id,value1,value2,Subject_name
+1,101,10,25,Math
+4,101,8,9,Math
+2,102,15,64,Science
+5,102,20,100,Science
+3,103,12,36,English
